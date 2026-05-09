@@ -34,6 +34,17 @@ This GBA inspired pack is based on Balatro which is designed and created by Loca
 > **This project has been supported by the GBALATRO Team.**
 https://github.com/GBALATRO/balatro-gba
 
+## Installation
+1. Purchase Balatro on Steam and launch it (To create save data)
+2. Install `Malverk`: https://github.com/Eremel/Malverk
+3. Install `Lovely`: https://github.com/ethangreen-dev/lovely-injector
+4. Download Zip of Texture Pack and place it in `Mod` Folder
+5. Extract Folders into `Mod` Folder
+6. Launch Balatro on Steam and it should load mods
+7. Open `Options` and click `Textures` and make sure the GBALATRO textures are the only ones selected
+8. For High Contrast Cards, select `Customize Deck` in `Options` and manually select High Contrast for each suit.
+9. [If these steps are wrong, I'll make a video to show it.]
+
 ### (Original Developer of Balatro-GBA / GBALATRO): **cellos51**
 
 ### **Follow Them Here:** 
