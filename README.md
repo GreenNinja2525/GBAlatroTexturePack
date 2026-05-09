@@ -58,6 +58,6 @@ https://github.com/GBALATRO/balatro-gba
 
 ## **Imagery:**
 Sprites and backgrounds are based on original Balatro imagery created by LocalThunk.
-> Sprite Contributors: @MeirGavish, @cellos51, @NoWhammies10, @theturtlemafia, @MathisMartin31, @noctowlhoot, @Mega-Evolved-Ziquinho, @bzxgcs, @FuriousTroller, @maedickens, @GreenNinja2525
+> Sprite Contributors: @MeirGavish, @cellos51, @NoWhammies10, @theturtlemafia, @MathisMartin31, @noctowlhoot, @Mega-Evolved-Ziquinho, @bzxgcs, @FuriousTroller, @maedickens, @ImaginaryNeon, @GreenNinja2525
 
 See [Joker Art Discussion](https://github.com/cellos51/balatro-gba/discussions/69) for full credits for each joker sprite.
