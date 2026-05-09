@@ -27,12 +27,8 @@ This Malverk Pack is a **non-profit fan tribute** to Balatro based on the Game B
 - **Missing some Tarot Cards, Enhancements, and other little things:**
 - **Vouchers, Skip Tags, Booster Packs**
 - **Decks, Stakes, Legendary Jokers**
-# **Credits:**
 
-## **Game:**
-This GBA inspired pack is based on Balatro which is designed and created by LocalThunk and published by Playstack. 
-> **This project has been supported by the GBALATRO Team.**
-https://github.com/GBALATRO/balatro-gba
+
 
 ## Installation
 1. Purchase Balatro on Steam and launch it (To create save data)
@@ -46,6 +42,8 @@ https://github.com/GBALATRO/balatro-gba
 9. For High Contrast Cards, select `Customize Deck` in `Options` and manually select High Contrast for each suit.
 10. [If these steps are wrong, I'll make a video to show it.]
 
+Credits: 
+Big thanks for https://github.com/CarrotonMan/balatrodarkmode as I used their project as a template for this project.
 ### (Original Developer of Balatro-GBA / GBALATRO): **cellos51**
 
 ### **Follow Them Here:** 
@@ -53,8 +51,13 @@ https://github.com/GBALATRO/balatro-gba
 
 > **Github: https://github.com/cellos51**
 
+## **Game:**
+This GBA inspired pack is based on Balatro which is designed and created by LocalThunk and published by Playstack. 
+> **This project has been supported by the GBALATRO Team.**
+https://github.com/GBALATRO/balatro-gba
+
 ## **Imagery:**
 Sprites and backgrounds are based on original Balatro imagery created by LocalThunk.
-> Sprite Contributors: @cellos51, @GreenNinja2525, @MeirGavish, @MathisMartin31, @NoWhammies10,  @noctowlhoot, @Mega-Evolved-Ziquinho, @theturtlemafia
+> Sprite Contributors: @MeirGavish, @cellos51, @NoWhammies10, @theturtlemafia, @MathisMartin31, @noctowlhoot, @Mega-Evolved-Ziquinho, @bzxgcs, @FuriousTroller, @GreenNinja2525
 
 See [Joker Art Discussion](https://github.com/cellos51/balatro-gba/discussions/69) for full credits for each joker sprite.
