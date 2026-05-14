@@ -1,7 +1,7 @@
 # GBAlatro Texture Pack (For Balatro) <img width="48" height="64" alt="newjoker" src="https://github.com/user-attachments/assets/cc88e4b2-9ff4-4793-8dc5-ed3a01669a77"/>
 
 ## Disclaimer:
-This Malverk Pack is a **non-profit fan tribute** to Balatro based on the Game Boy Advance. It is **not affiliated with or endorsed by Playstack or LocalThunk**. This is a texture pack using Malverk, intended for those who **already own** and know the official game (also modding the game). Refer to the wiki below for more info about the official game. **All rights remain with the original holders.**
+This Malverk Pack is a **non-profit fan tribute** to Balatro based on the Game Boy Advance and GBALATRO. It is **not affiliated with or endorsed by Playstack or LocalThunk**. This is a texture pack using Malverk, intended for those who **already own** and know the official game (also modding the game). Refer to the wiki below for more info about the official game. **All rights remain with the original holders.**
 
 <a href="https://balatrowiki.org/">
   <img src="https://custom-icon-badges.demolab.com/badge/Balatro%20Wiki-red?logo=bigjoker&logoColor=fff" alt="Balatro Wiki" width="150">
@@ -19,19 +19,23 @@ This Malverk Pack is a **non-profit fan tribute** to Balatro based on the Game B
 
 ### **Gameplay:** 
 
-[Not Available]
+[Not Available at this time]
 
 ### Includes:
-- **~**
+- **Retro Cards**
+- **Retro Logo**
+- **Retro Jokers**
+- **Retro Decks**
+- **Retro Tarots/Spectrals/Planets**
+- **And MORE!**
 ### Features Not Implemented:
-- **Missing some Tarot Cards, Enhancements, and other little things:**
-- **Vouchers, Skip Tags, Booster Packs**
+- **Missing some Tarot Cards, Some card Enhancements, and other little things:**
+- **Vouchers, Booster Packs**
 - **Decks, Stakes, Legendary Jokers**
-
-
 
 ## Installation
 1. Purchase Balatro on Steam and launch it (To create save data)
+MAKE SURE TO MAKE A `Mod` FOLDER!
 2. Install `Malverk`: https://github.com/Eremel/Malverk
 3. Install `Lovely`: https://github.com/ethangreen-dev/lovely-injector
 4. Install `Steamodded`: https://github.com/Steamodded/smods
